@@ -1,11 +1,13 @@
 Package: rtcassignment
 Type: Package
-Title: What the Package Does (Title Case)
+Title: An R Package for Assigning Results from MALDI-TOF Real-Time Classification (RTC) of Bacterial Isolates
 Version: 0.1.0
 Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Maintainer: Chiranjit Mukherjee <mukherjee.55@osu.edu>
+Description: MALDI-TOF results for microbial isolates are generated in a PDF format, with embedded table of results. Four lines of results for each isolate is provided.
+            This package takes the result table in a text file format, applies predetermined logic for processing those results and assignes classes, and tabulates the assignment.
+            Use four spaces when indenting paragraphs within the Description.
+License: GPL-2
 Encoding: UTF-8
-LazyData: true
+LazyData: TRUE
+RoxygenNote: 7.1.1

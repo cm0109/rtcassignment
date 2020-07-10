@@ -1,0 +1,45 @@
+Analyte Name	Organism ID	Score
+MER_1	Staphylococcus_aureus_subsp._aureus_Fairing_1A-3	2.21
+MER_1	Staphylococcus aureus_subsp._aureus_Fairing_1A-3	2.23
+MER_1	Staphylococcus aureus_subsp._aureus_Fairing_1A-3	2.29
+MER_1	Staphylococcus aureus	2.24
+MER_2	Kocuria palustris_MPF_70	1.81
+MER_2	Kocuria palustris_MPF_70	2.22
+MER_2	Kocuria palustris_MPF_70	2.27
+MER_2	Kocuria palustris_MPF_70	2.2
+MER_3	Bacillus axarquiensis_NRRL-B-41617T	2.2
+MER_3	Bacillus mojavensis_V44-14	2.21
+MER_3	Bacillus axarquiensis_NRRL-B-41617T	2.27
+MER_3	Bacillus axarquiensis_NRRL-B-41617T	2.1
+MER_4	Bacillus pumilus_AMY_17.1	2.03
+MER_4	Bacillus pumilus_AMY_17.1	2.2
+MER_4	Bacillus pumilus_AMY_17.1	2.48
+MER_4	Bacillus pumilus_AMY_17.1	1.8
+MER_5	Bacillus licheniformis_MER_136	2.24
+MER_5	Bacillus safensis_IN_236	2.21
+MER_5	Bacillus licheniformis_MER_136	2.32
+MER_5	Bacillus safensis_IN_236	2.24
+MER_6	Bacillus oceanisediminis	2.06
+MER_6	Bacillus firmus_IN_11	2.19
+MER_6	Bacillus firmus_IN_11	2.13
+MER_6	Bacillus firmus_IN_11	2.14
+MER_7	Bacillus megaterium_IN_553	2.02
+MER_7	Bacillus megaterium_IN_553	2.03
+MER_7	Bacillus flexus_IN_598	2.07
+MER_7	Bacillus flexus_IN_598	2.25
+MER_8	Bacillus sp._PF24A.2.1	2.37
+MER_8	Bacillus sp._PF24A.2.1	2.36
+MER_8	Bacillus sp._PF24A.2.1	2.41
+MER_8	no peaks found	0
+MER_9	Bacillus subtilis_IN_983	2.13
+MER_9	Bacillus subtilis_IN_983	2.13
+MER_9	Bacillus subtilis_IN_983	2.22
+MER_9	Bacillus subtilis_IN_983	2.01
+MER_10	Non Reliable Identification	0
+MER_10	Cellulomonas humilata_B_3752T	2.11
+MER_10	Cellulomonas humilata_B_3752T	1.7
+MER_10	Non Reliable Identification	0
+MER_11	Bacillus pumilus	2.09
+MER_11	no peaks found	0
+MER_11	no peaks found	0
+MER_11	no peaks found	0
